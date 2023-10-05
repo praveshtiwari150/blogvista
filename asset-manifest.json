@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogvista/static/css/main.d80cec6f.css",
+    "main.js": "/blogvista/static/js/main.1d3042da.js",
+    "index.html": "/blogvista/index.html",
+    "main.d80cec6f.css.map": "/blogvista/static/css/main.d80cec6f.css.map",
+    "main.1d3042da.js.map": "/blogvista/static/js/main.1d3042da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80cec6f.css",
+    "static/js/main.1d3042da.js"
+  ]
+}
